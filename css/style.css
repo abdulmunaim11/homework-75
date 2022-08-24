@@ -1,0 +1,52 @@
+h1{
+	color:pink;
+}
+
+.heading_1{
+	width: 200px;
+	height: 200px
+}
+
+#text11{
+	border: 3px dotted blueviolet;
+}
+
+.box{
+	width: 20px;
+	height: 20px;
+	background-color: blueviolet;
+}
+
+.container{
+	overflow: hidden;
+
+}
+.blog{
+	float: left ;
+	width: 40%;
+	height: 200px ;
+	background-color: blueviolet;
+}
+.contact{
+	float: right;
+	width: 55%;
+	height: 200px ;
+	background-color: pink;
+}
+
+.wrapper{}
+.box{
+	float: left;
+	height: 100px;
+	width: 33.33%;
+
+}
+.black{
+	background-color: black;
+}
+.pink{
+	background-color: pink;
+}
+.grey{
+	background-color: grey;
+}
